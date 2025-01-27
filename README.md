@@ -95,4 +95,3 @@ Este proyecto contiene un script en Python que realiza operaciones básicas con 
 
 ## **Autor**
 Jhonatan Ramírez
-
