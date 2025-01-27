@@ -3,8 +3,8 @@ import psycopg2
 connetion = psycopg2.connect(
     host="127.0.0.1",
     user= "postgres",
-    password="casher777",
-    database="jhonatan1",
+    password="password",
+    database="pastgres",
     port="5434"
 )
 
